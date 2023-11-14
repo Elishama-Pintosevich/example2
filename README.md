@@ -1,1 +1,2 @@
-auhtor: Elishama Pintosevich
+author: Elishama Pintosevich
+age: 23
