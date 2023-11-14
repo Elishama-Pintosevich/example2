@@ -1,1 +1,1 @@
-auhtor: Elishama
+auhtor: Elishama Pintosevich
